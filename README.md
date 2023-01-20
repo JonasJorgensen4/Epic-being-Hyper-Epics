@@ -9,5 +9,7 @@ Epics has a higher spawn rate, watch out!
 
 # Unintended Side affects
 More nests of smaller creaturs
+
 Nest might contain clone creatures, (I.E there can be 2 nests of the same species)
+
 Small creatures are a little bit bigger.
