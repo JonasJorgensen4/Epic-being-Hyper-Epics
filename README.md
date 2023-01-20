@@ -26,6 +26,10 @@ There are seperate folders for EpicPlay Redux compatibility. Both normal and ste
 
 But remember to have the EpicPlayRedux.package and the EpicPlayRedux comaptible version together in DataEP1, for it to work.  
 
+Link to the EpicPlayRedux mod
+
+https://davoonline.com/phpBB3/viewtopic.php?t=6749
 # Feedback
+
 
 My discord is JonasJorgensen#9156, Feel free to hmu.
