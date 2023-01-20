@@ -4,6 +4,10 @@
 
 # This mod is inspired by Dino’s Hyper Epic Sized Epics
 
+This mod makes every epic have different sizes, including hyper epics
+
+# Changes
+
 Epics has a chance of being different sizes. From small with a health pool of 250, to hyper epic with a health pool of a million.
 
 Epics has a higher spawn rate, watch out!
